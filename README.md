@@ -1,8 +1,8 @@
 # privateChat
 
 Membres du groupe :
-Lucas ARNU 1.2
-Mustafa Vural 1.
+- Lucas ARNU 1.2
+- Mustafa Vural 1.
 
 Récapitulatif du projet :
 - La communication entre le client et le serveur est possible depuis un terminal (sachant que le client et le serveur doivent être lancé séparément)
